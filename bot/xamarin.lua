@@ -234,13 +234,13 @@ function create_config( )
     "plugins",
     "all",
     },
-    sudo_users = {77750573},--Sudo users
+    sudo_users = {165562299},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[⚡ team aqa mp3 top anti_spam v.5
     
-  📢 Channel : @aqamp3
-  👤 Admin : @mahdimp3
+  📢 Channel :mahdib6
+  👤 Admin :@mahdib9
 ]],
     help_text_realm = [[
 Realm Commands:
